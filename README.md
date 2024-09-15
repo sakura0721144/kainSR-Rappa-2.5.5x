@@ -1,7 +1,6 @@
-# 支持 [freesr-data.json](https://freesr-tools.pages.dev/) 配置导入，支持2.4.51/2/3/4/5
+# 支持 [freesr-data.json](https://freesr-tools.pages.dev/) 配置导入，支持2.5.5x
 
-# Fork of https://github.com/AzenKain/KainSR
-如果有疑问，可以在discord（用户名lovefurina002）上私聊我，请勿在reversed rooms里直接问这个
+# Fork of https://github.com/kain-SRbeta
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
